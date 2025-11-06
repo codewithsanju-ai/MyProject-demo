@@ -1,3 +1,3 @@
 # MyProject-demo
 This Is My First Repository in GitHub.
-Auther -sanjay kushwaha
+Auther -sanjay kushwaha(sanju )
